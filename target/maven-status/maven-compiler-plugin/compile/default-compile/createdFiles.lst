@@ -1,0 +1,6 @@
+zone\totem\dao\TestDao.class
+zone\totem\controllers\ReadingController.class
+zone\totem\services\ReadingService.class
+test\Test.class
+zone\totem\dao\model\Student.class
+test\MyThread.class
