@@ -2,7 +2,57 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58648c06-cb7a-43f8-866b-d246c419878f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="C:\Users\Holmes\IdeaProjects\Reading\target\classes\applicationContext.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Holmes\IdeaProjects\Reading\target\classes\jdbc.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Holmes\IdeaProjects\Reading\target\classes\log4j.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Holmes\IdeaProjects\Reading\target\classes\test\MyThread.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Holmes\IdeaProjects\Reading\target\classes\test\Test.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Holmes\IdeaProjects\Reading\target\classes\zone\totem\controllers\ReadingController.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Holmes\IdeaProjects\Reading\target\classes\zone\totem\dao\TestDao.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Holmes\IdeaProjects\Reading\target\classes\zone\totem\dao\model\Student.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Holmes\IdeaProjects\Reading\target\classes\zone\totem\services\ReadingService.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Holmes\IdeaProjects\Reading\target\maven-archiver\pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Holmes\IdeaProjects\Reading\target\maven-status\maven-compiler-plugin\compile\default-compile\createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Holmes\IdeaProjects\Reading\target\maven-status\maven-compiler-plugin\compile\default-compile\inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Holmes\IdeaProjects\Reading\target\reading-1.0-SNAPSHOT.war" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Holmes\IdeaProjects\Reading\target\reading-1.0-SNAPSHOT\11.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Holmes\IdeaProjects\Reading\target\reading-1.0-SNAPSHOT\Ajax.jsp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Holmes\IdeaProjects\Reading\target\reading-1.0-SNAPSHOT\WEB-INF\classes\applicationContext.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Holmes\IdeaProjects\Reading\target\reading-1.0-SNAPSHOT\WEB-INF\classes\jdbc.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Holmes\IdeaProjects\Reading\target\reading-1.0-SNAPSHOT\WEB-INF\classes\log4j.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Holmes\IdeaProjects\Reading\target\reading-1.0-SNAPSHOT\WEB-INF\classes\test\MyThread.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Holmes\IdeaProjects\Reading\target\reading-1.0-SNAPSHOT\WEB-INF\classes\test\Test.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Holmes\IdeaProjects\Reading\target\reading-1.0-SNAPSHOT\WEB-INF\classes\zone\totem\controllers\ReadingController.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Holmes\IdeaProjects\Reading\target\reading-1.0-SNAPSHOT\WEB-INF\classes\zone\totem\dao\TestDao.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Holmes\IdeaProjects\Reading\target\reading-1.0-SNAPSHOT\WEB-INF\classes\zone\totem\dao\model\Student.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Holmes\IdeaProjects\Reading\target\reading-1.0-SNAPSHOT\WEB-INF\classes\zone\totem\services\ReadingService.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Holmes\IdeaProjects\Reading\target\reading-1.0-SNAPSHOT\WEB-INF\lib\commons-dbcp-1.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Holmes\IdeaProjects\Reading\target\reading-1.0-SNAPSHOT\WEB-INF\lib\commons-io-1.3.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Holmes\IdeaProjects\Reading\target\reading-1.0-SNAPSHOT\WEB-INF\lib\commons-logging-1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Holmes\IdeaProjects\Reading\target\reading-1.0-SNAPSHOT\WEB-INF\lib\commons-pool-1.5.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Holmes\IdeaProjects\Reading\target\reading-1.0-SNAPSHOT\WEB-INF\lib\fastjson-1.2.17.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Holmes\IdeaProjects\Reading\target\reading-1.0-SNAPSHOT\WEB-INF\lib\mysql-connector-java-6.0.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Holmes\IdeaProjects\Reading\target\reading-1.0-SNAPSHOT\WEB-INF\lib\spring-aop-4.3.1.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Holmes\IdeaProjects\Reading\target\reading-1.0-SNAPSHOT\WEB-INF\lib\spring-beans-4.3.1.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Holmes\IdeaProjects\Reading\target\reading-1.0-SNAPSHOT\WEB-INF\lib\spring-context-4.3.1.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Holmes\IdeaProjects\Reading\target\reading-1.0-SNAPSHOT\WEB-INF\lib\spring-core-4.3.1.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Holmes\IdeaProjects\Reading\target\reading-1.0-SNAPSHOT\WEB-INF\lib\spring-expression-4.3.1.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Holmes\IdeaProjects\Reading\target\reading-1.0-SNAPSHOT\WEB-INF\lib\spring-jdbc-4.3.1.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Holmes\IdeaProjects\Reading\target\reading-1.0-SNAPSHOT\WEB-INF\lib\spring-tx-4.3.1.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Holmes\IdeaProjects\Reading\target\reading-1.0-SNAPSHOT\WEB-INF\lib\spring-web-4.3.1.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Holmes\IdeaProjects\Reading\target\reading-1.0-SNAPSHOT\WEB-INF\lib\spring-webmvc-4.3.1.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Holmes\IdeaProjects\Reading\target\reading-1.0-SNAPSHOT\WEB-INF\web.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Holmes\IdeaProjects\Reading\target\reading-1.0-SNAPSHOT\css\swiper-3.4.0.min.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Holmes\IdeaProjects\Reading\target\reading-1.0-SNAPSHOT\index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Holmes\IdeaProjects\Reading\target\reading-1.0-SNAPSHOT\jslib\jquery-3.1.1.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Holmes\IdeaProjects\Reading\target\reading-1.0-SNAPSHOT\jslib\swiper-3.4.0.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Holmes\IdeaProjects\Reading\target\tomcat\conf\logging.properties" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Holmes\IdeaProjects\Reading\target\tomcat\conf\tomcat-users.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Holmes\IdeaProjects\Reading\target\tomcat\conf\web.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Holmes\IdeaProjects\Reading\target\tomcat\logs\access_log.2016-12-18" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Holmes\IdeaProjects\Reading\target\tomcat\logs\access_log.2016-12-19" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Holmes\IdeaProjects\Reading\target\tomcat\work\Tomcat\localhost\reading\org\apache\jsp\index_jsp.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Holmes\IdeaProjects\Reading\target\tomcat\work\Tomcat\localhost\reading\org\apache\jsp\index_jsp.java" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Reading.iws" />
@@ -100,8 +150,8 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8615819">
-              <caret line="49" column="6" selection-start-line="49" selection-start-column="6" selection-end-line="49" selection-end-column="6" />
+            <state vertical-scroll-proportion="0.80508476">
+              <caret line="48" column="10" selection-start-line="48" selection-start-column="10" selection-end-line="48" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -360,13 +410,13 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="103" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="99" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="132" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="129" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="132" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="129" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="925" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="922" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="120" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
@@ -1139,7 +1189,7 @@
       <workItem from="1481647266109" duration="7368000" />
       <workItem from="1489318871828" duration="1253000" />
       <workItem from="1490436159512" duration="854000" />
-      <workItem from="1490437250477" duration="1136000" />
+      <workItem from="1490437250477" duration="1896000" />
     </task>
     <task id="LOCAL-00001" summary="忽略target">
       <created>1490438128335</created>
@@ -1147,11 +1197,17 @@
       <option name="project" value="LOCAL" />
       <updated>1490438128335</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="忽略target">
+      <created>1490438401299</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1490438401299</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="164236000" />
+    <option name="totallyTimeSpent" value="164996000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1666,8 +1722,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8615819">
-          <caret line="49" column="6" selection-start-line="49" selection-start-column="6" selection-end-line="49" selection-end-column="6" />
+        <state vertical-scroll-proportion="0.80508476">
+          <caret line="48" column="10" selection-start-line="48" selection-start-column="10" selection-end-line="48" selection-end-column="10" />
           <folding />
         </state>
       </provider>
